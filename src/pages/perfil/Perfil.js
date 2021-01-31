@@ -39,7 +39,7 @@ function Perfil() {
           <p>
             <i className="fas fa-home" /> Mateo Cueva Lte 37{" "}
           </p>
-          <button>Editar Perfil</button>
+          <button>Editar por favor Perfil</button>
         </div>
       </div>
     </>
